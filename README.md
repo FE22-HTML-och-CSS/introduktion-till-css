@@ -1,4 +1,4 @@
-# introduktion-till-css
+# Introduktion till CSS
 
 ##  Övningar
 
